@@ -17,6 +17,6 @@
   "xcconfig": {
     "OTHER_CFLAGS": "-DHAVE_CONFIG_H"
   },
-  "prepare_command": "./bootsrtap \n    ./configure 2>&1\n",
+  "prepare_command": "./bootstrap \n    ./configure 2>&1\n",
   "requires_arc": false
 }
